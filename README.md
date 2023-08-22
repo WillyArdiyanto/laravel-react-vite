@@ -1,4 +1,4 @@
-Credit Kang Purwa
+### Credit Kang Purwa
 Berikut adalah soal devops 
 
 Goals nya adalah menginstallkan laravel dari repo ini pada port 80 server tujuan 
